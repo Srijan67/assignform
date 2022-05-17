@@ -1,0 +1,17 @@
+.detail {
+  width: 30vw;
+  margin-bottom: 0.4rem;
+  color: gray;
+}
+
+.detail label {
+  display: block;
+}
+
+.detail input {
+  border: 1px solid gray;
+  padding: 0.4rem 1rem;
+  width: 65%;
+  border-radius: 0.4rem;
+}
+/*# sourceMappingURL=myform.css.map */
