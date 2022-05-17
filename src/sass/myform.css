@@ -13,5 +13,19 @@
   padding: 0.4rem 1rem;
   width: 65%;
   border-radius: 0.4rem;
+  outline: none;
+}
+
+.detail .detail__phone {
+  width: 40%;
+  padding-right: 0.1rem;
+}
+
+.accbtn {
+  color: white;
+  margin-top: 1rem;
+  background-color: #49aeec;
+  padding: 0.6rem 1.5rem;
+  border: none;
 }
 /*# sourceMappingURL=myform.css.map */

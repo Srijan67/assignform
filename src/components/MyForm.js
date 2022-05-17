@@ -20,12 +20,13 @@ const MyForm = () => {
       </div>
       <div className="detail">
         <label>Your Phone Number</label>
-        <input type="number" />
+        <input className="detail__phone" type="number" />
       </div>
       <div className="tnc">
         <input type="checkbox" />
-        <label>I read and agree terms and conditions</label>
+        <label> I read and agree terms and conditions</label>
       </div>
+      <input className="accbtn" type="submit" value="Create account" />
     </>
   );
 };
